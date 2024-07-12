@@ -37,7 +37,8 @@ python main.py
 
 ## Screenshots
 
-Add some screenshots of your application here.
+![image](https://github.com/user-attachments/assets/c520bfe4-766f-4448-805f-62283cd37066)
+
 
 ## License
 
